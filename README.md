@@ -26,7 +26,7 @@
   <div style="width: 45.8%; background-color: #4CAF50; height: 20px;"></div>
   <div style="width: 54.2%; background-color: #ddd; height: 20px;"></div>
 </div>
-<p>11 / 24 Courses Completed</p>
+<p>16 / 24 Courses Completed</p>
 
 <details>
   <summary>View Roadmap Image</summary>
