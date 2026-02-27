@@ -6,11 +6,12 @@
 
 ---
 
-<h2 align="left">🛠️ Technologies I'm Learning:</h2>
+<h2 align="left">🛠️ Programming Languages I know :</h2>
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/java-original.svg" alt="C#" width="40" height="40"/>
 </p>
 
 ---
