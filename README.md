@@ -31,7 +31,7 @@
 
 <details>
   <summary>View Roadmap Image</summary>
-  <img src="https://cdn.fs.teachablecdn.com/vQwPc0bSvSVEaPKkxodz" alt="Programming Roadmap" width="600">
+  <img src="[https://cdn.fs.teachablecdn.com/vQwPc0bSvSVEaPKkxodz](https://uploads.teachablecdn.com/attachments/jlJAuzdhQsaQppzKYUR9_1000116077.png)" alt="Programming Roadmap" width="600">
 </details>
 
 ---
