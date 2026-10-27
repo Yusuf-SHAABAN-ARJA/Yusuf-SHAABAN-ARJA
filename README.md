@@ -33,17 +33,7 @@
 
 ---
 
-<h2 align="left">🚀 Featured Projects:</h2>
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Bank Management System](https://github.com/Yusuf-SHAABAN-ARJA/BankProjectOOPCourse11) | Full-featured bank system with OOP, encrypted auth, and currency exchange | C++ |
-| [Data Structures — Course 13](https://github.com/Yusuf-SHAABAN-ARJA/Course-13) | 8 generic data structures built from scratch | C++ |
-| [Task Manager](https://github.com/Yusuf-SHAABAN-ARJA/Task-Manager-CSharp) | To-Do List desktop app with priority flags and file persistence | C# |
-| [Pizza Order](https://github.com/Yusuf-SHAABAN-ARJA/PizzaProject-CSharp) | Pizza ordering desktop app with order summary and unique order code | C# |
-| [Tic-Tac-Toe Game](https://github.com/Yusuf-SHAABAN-ARJA/Tic-Tac-Toe-Game) | Two-player XO game with win detection | C# |
-
----
 
 <h2 align="left">📫 Connect with me:</h2>
 
